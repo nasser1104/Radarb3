@@ -17,7 +17,7 @@ import requests
 import pytz
 import asyncio
 
-TOKEN = os.getenv("TELEGRAM_TOKEN", "7595299972:AAHe8kB0YSHl5e6AkJ_jYdcC5lf4Eu5rFv8")
+TOKEN = os.getenv("TELEGRAM_TOKEN", "7777625610:AAGZtOr9oLXIzbb2BnckEoFdsX8uzmAkDYI")
 TIMEZONE = pytz.timezone('America/Sao_Paulo')
 
 app = Flask(__name__)
